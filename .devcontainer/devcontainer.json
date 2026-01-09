@@ -12,5 +12,12 @@
     "6080": {
       "label": "desktop"
     }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csdevkit"
+      ]
+    }
   }
 }
